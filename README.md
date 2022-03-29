@@ -16,6 +16,6 @@ Ele também pode ser utilizado de forma online.
     
 3. Clique para exportar e então clique novamente para exportar:
 
-![img3.png](Tutorial%20M%2012696/img3.png)
+![img3](https://user-images.githubusercontent.com/50498549/160691292-bfe1a15d-adef-41e7-a9a5-86767960157f.png)
 
 Após exportado basta abrir o arquivo gerado com um editor de texto qualquer, copiar e colar no seu [README.MD](http://README.MD) e está pronto o sorvetinho!
