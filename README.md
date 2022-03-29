@@ -8,7 +8,7 @@ Ele também pode ser utilizado de forma online.
 
 1. Clique nos três pontinhos no canto superior direito do Notion, como na imagem: 
     
-    ![img1.png](Tutorial%20M%2012696/img1.png)
+    ![img1](https://user-images.githubusercontent.com/50498549/160690925-9d62fe36-56c3-4d0c-8acd-b1e829d8a9c9.png)
     
 2. Depois navegue até Exportar:
     
