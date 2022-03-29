@@ -12,7 +12,7 @@ Ele também pode ser utilizado de forma online.
     
 2. Depois navegue até Exportar:
     
-    ![img2.png](Tutorial%20M%2012696/img2.png)
+    ![img2](https://user-images.githubusercontent.com/50498549/160691147-82d70bf0-4e93-402a-ab03-b399946cc761.png)
     
 3. Clique para exportar e então clique novamente para exportar:
 
